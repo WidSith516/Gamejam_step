@@ -10826,3 +10826,352 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.02.02-10.57.37:525][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/monsters/BP/monstersound_Auto5
 [2025.02.02-10.57.37:525][827]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/monstersound_Auto5933F1B814311AFF7048C00879527A826.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/monsters/BP/monstersound_Auto5.uasset'
 [2025.02.02-10.57.37:525][827]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.02.02-11.16.31:285][519]LogViewport: Scene viewport resized to 556x606, mode Windowed.
+[2025.02.02-11.17.07:933][923]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2025.02.02-11.17.07:939][923]LogContentBrowser: Creating deferred item: NewSoundClass
+[2025.02.02-11.17.07:949][924]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2025.02.02-11.17.44:798][335]LogContentBrowser: Attempting asset rename: NewSoundClass -> SC_highpri
+[2025.02.02-11.17.44:799][335]LogContentBrowser: End creating deferred item NewSoundClass
+[2025.02.02-11.17.49:452][825]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.02.02-11.17.55:672][350]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2025.02.02-11.17.55:679][350]LogContentBrowser: Creating deferred item: NewSoundClass
+[2025.02.02-11.17.55:689][351]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2025.02.02-11.17.59:718][833]LogContentBrowser: Attempting asset rename: NewSoundClass -> SC_lowpri
+[2025.02.02-11.17.59:719][833]LogContentBrowser: End creating deferred item NewSoundClass
+[2025.02.02-11.18.01:166][991]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/SE/SE_controller/SC_lowpri.SC_lowpri
+[2025.02.02-11.19.16:218][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.02.02-11.19.16:222][607]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2025.02.02-11.19.16:222][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SC_highpri] ([1] browsable assets)...
+[2025.02.02-11.19.16:222][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SC_highpri]
+[2025.02.02-11.19.16:223][607]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SC_highpri_Auto6
+[2025.02.02-11.19.16:223][607]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SC_highpri_Auto60D7B5F3D4574F3948C22238BC9BAD78F.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SC_highpri_Auto6.uasset'
+[2025.02.02-11.19.16:223][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SC_lowpri] ([1] browsable assets)...
+[2025.02.02-11.19.16:223][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SC_lowpri]
+[2025.02.02-11.19.16:225][607]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SC_lowpri_Auto6
+[2025.02.02-11.19.16:225][607]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SC_lowpri_Auto6BFFD9D244CB21FDCECD9A6A507DA7FE0.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SC_lowpri_Auto6.uasset'
+[2025.02.02-11.19.16:225][607]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.02.02-11.19.19:505][617]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/SE/SE_controller/SC_highpri.SC_highpri
+[2025.02.02-11.20.25:497][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.02-11.20.26:591][129]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.02-11.20.26:606][129]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SE/SE_controller/ClassName.ClassName
+	Asset Type: SoundClass
+[2025.02.02-11.20.26:790][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.02-11.20.26:800][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.02-11.20.26:808][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.02-11.20.46:579][ 19]LogDerivedDataCache: C:/Users/Administrator.WIN-FB3BQB56EOP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5082 files in 6343 folders with total size 216 MiB.
+[2025.02.02-11.22.33:787][ 65]BlueprintLog: New page: 编译monstersound
+[2025.02.02-11.22.33:849][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.02.02-11.22.52:098][783]BlueprintLog: New page: 编译monstersound
+[2025.02.02-11.22.52:159][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.02-11.23.10:538][398]LogViewport: Scene viewport resized to 542x718, mode Windowed.
+[2025.02.02-11.24.58:037][792]LogSlateStyle: Warning: 缺失来自“NiagaraEditorStyle”的资源 样式：“未能找到颜色“NiagaraEditor.AssetColors.DataChannel”。”
+[2025.02.02-11.25.26:005][374]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2025.02.02-11.25.26:011][374]LogContentBrowser: Creating deferred item: NewSoundMix
+[2025.02.02-11.25.26:021][375]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundMix).
+[2025.02.02-11.25.37:523][752]LogContentBrowser: Attempting asset rename: NewSoundMix -> SM_lowpri
+[2025.02.02-11.25.37:525][752]LogContentBrowser: End creating deferred item NewSoundMix
+[2025.02.02-11.25.39:230][944]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/SE/SE_controller/SM_lowpri.SM_lowpri
+[2025.02.02-11.29.16:880][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.02.02-11.29.16:887][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JJ/IRW92MCZLY9L29H4THID0I_Auto7
+[2025.02.02-11.29.16:887][955]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/IRW92MCZLY9L29H4THID0I_Auto7089723124CC222D9FDC79FBF00C6D724.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JJ/IRW92MCZLY9L29H4THID0I_Auto7.uasset'
+[2025.02.02-11.29.16:887][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2025.02.02-11.29.16:887][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.02.02-11.29.16:887][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/monsters/BP/monstersound] ([2] browsable assets)...
+[2025.02.02-11.29.16:887][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/monsters/BP/monstersound]
+[2025.02.02-11.29.16:890][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/monsters/BP/monstersound_Auto7
+[2025.02.02-11.29.16:890][955]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/monstersound_Auto756BED11446A5DDE5A6F48B871E803047.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/monsters/BP/monstersound_Auto7.uasset'
+[2025.02.02-11.29.16:890][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SC_highpri] ([1] browsable assets)...
+[2025.02.02-11.29.16:891][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SC_highpri]
+[2025.02.02-11.29.16:891][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SC_highpri_Auto7
+[2025.02.02-11.29.16:891][955]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SC_highpri_Auto7E687F0B948783816E7A9F88DB71A4522.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SC_highpri_Auto7.uasset'
+[2025.02.02-11.29.16:891][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SC_lowpri] ([1] browsable assets)...
+[2025.02.02-11.29.16:891][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SC_lowpri]
+[2025.02.02-11.29.16:892][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SC_lowpri_Auto7
+[2025.02.02-11.29.16:892][955]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SC_lowpri_Auto7378013064156D8BD388B1DB7E03D4670.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SC_lowpri_Auto7.uasset'
+[2025.02.02-11.29.16:893][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SM_lowpri] ([1] browsable assets)...
+[2025.02.02-11.29.16:893][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SM_lowpri]
+[2025.02.02-11.29.16:893][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SM_lowpri_Auto7
+[2025.02.02-11.29.16:893][955]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SM_lowpri_Auto7B26559AF4B07D29B43D9418AF9A91E28.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SM_lowpri_Auto7.uasset'
+[2025.02.02-11.29.16:894][955]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.02.02-11.39.49:943][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.02-11.39.49:946][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2025.02.02-11.39.49:946][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SC_highpri] ([1] browsable assets)...
+[2025.02.02-11.39.49:946][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SC_highpri]
+[2025.02.02-11.39.49:947][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SC_highpri_Auto8
+[2025.02.02-11.39.49:947][262]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SC_highpri_Auto8387A4D734B99B5F2720682B94D7255CB.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SC_highpri_Auto8.uasset'
+[2025.02.02-11.39.49:947][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SE/SE_controller/SC_lowpri] ([1] browsable assets)...
+[2025.02.02-11.39.49:947][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SE/SE_controller/SC_lowpri]
+[2025.02.02-11.39.49:947][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SE/SE_controller/SC_lowpri_Auto8
+[2025.02.02-11.39.49:947][262]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SC_lowpri_Auto85D5B92234167288FE268828947F69FE7.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/SE/SE_controller/SC_lowpri_Auto8.uasset'
+[2025.02.02-11.39.49:948][262]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.02.02-11.40.03:093][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-11.40.03:261][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SE/SE_controller/SM_lowpri" FILE="../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/SM_lowpri.uasset" SILENT=true
+[2025.02.02-11.40.03:262][305]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/SM_lowpri
+[2025.02.02-11.40.03:262][305]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/SM_lowpri87F43E1248302B7389B5EDACE48AA84C.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/SM_lowpri.uasset'
+[2025.02.02-11.40.03:269][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 562 ms)
+[2025.02.02-11.40.03:270][305]AssetCheck: New page: 资产保存：SM_lowpri
+[2025.02.02-11.40.03:270][305]LogContentValidation: Display: 正在验证/Script/Engine.SoundMix /Game/SE/SE_controller/SM_lowpri.SM_lowpri
+[2025.02.02-11.50.30:613][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-11.50.30:652][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴-WQ20070522
+[2025.02.02-11.50.30:653][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴-WQ200705229247D1224E1946DC745BF48C5E640B5A.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴-WQ20070522.uasset'
+[2025.02.02-11.50.30:656][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴1-LTT20070529
+[2025.02.02-11.50.30:657][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴1-LTT200705299FDDA1014710AF6D04CD54A3440766C7.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴1-LTT20070529.uasset'
+[2025.02.02-11.50.30:660][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴2-LTT20070529
+[2025.02.02-11.50.30:660][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴2-LTT20070529BA4C1C534971840CF8C23C8FD1721F76.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴2-LTT20070529.uasset'
+[2025.02.02-11.50.30:664][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴2-WQ20070522
+[2025.02.02-11.50.30:664][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴2-WQ2007052221A0CD4643DF6561C9BD7B82978B2122.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴2-WQ20070522.uasset'
+[2025.02.02-11.50.30:668][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴3-LTT20070529
+[2025.02.02-11.50.30:668][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴3-LTT20070529261DCD1044AF28BAEB7805B5429630DF.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴3-LTT20070529.uasset'
+[2025.02.02-11.50.30:672][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴3-WQ20070522
+[2025.02.02-11.50.30:672][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴3-WQ20070522E265A0CC4D5C4E7EA6EA829A313118E6.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴3-WQ20070522.uasset'
+[2025.02.02-11.50.30:676][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴3-xys20070522
+[2025.02.02-11.50.30:676][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴3-xys2007052234DA60404C1665477499A783FD45F292.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴3-xys20070522.uasset'
+[2025.02.02-11.50.30:680][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴4-WQ20070522
+[2025.02.02-11.50.30:680][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴4-WQ200705228C1CBA384430C10E6AC88B82001CC737.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴4-WQ20070522.uasset'
+[2025.02.02-11.50.30:684][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴4-xys20070522
+[2025.02.02-11.50.30:684][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴4-xys20070522DA2823824C7633743A9A7FA9F3831757.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴4-xys20070522.uasset'
+[2025.02.02-11.50.30:688][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴5-WQ20070522
+[2025.02.02-11.50.30:688][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴5-WQ20070522E1ECEBF84805CD736AF143BEE97E5EDD.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴5-WQ20070522.uasset'
+[2025.02.02-11.50.30:694][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/水滴带混响zth070528
+[2025.02.02-11.50.30:695][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/水滴带混响zth070528A614A3394FF546EE0B31548F67D2407B.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/水滴带混响zth070528.uasset'
+[2025.02.02-11.50.30:698][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/滴水－YS070511
+[2025.02.02-11.50.30:699][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/滴水－YS070511DFE68B5E4D9E414FDA8A779D76FE9266.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/滴水－YS070511.uasset'
+[2025.02.02-11.50.30:704][325]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/drops/sounds/高频的水滴不断嘀落－YS2007058
+[2025.02.02-11.50.30:704][325]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/高频的水滴不断嘀落－YS20070581773C04340E9C24AAF01B587951860AF.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/drops/sounds/高频的水滴不断嘀落－YS2007058.uasset'
+[2025.02.02-11.50.30:713][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 662 ms)
+[2025.02.02-11.50.30:715][325]AssetCheck: New page: 资产保存：多个资产
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴-WQ20070522.水滴-WQ20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴1-LTT20070529.水滴1-LTT20070529
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴2-LTT20070529.水滴2-LTT20070529
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴2-WQ20070522.水滴2-WQ20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴3-LTT20070529.水滴3-LTT20070529
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴3-WQ20070522.水滴3-WQ20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴3-xys20070522.水滴3-xys20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴4-WQ20070522.水滴4-WQ20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴4-xys20070522.水滴4-xys20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴5-WQ20070522.水滴5-WQ20070522
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/水滴带混响zth070528.水滴带混响zth070528
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/滴水－YS070511.滴水－YS070511
+[2025.02.02-11.50.30:715][325]LogContentValidation: Display: 正在验证/Script/Engine.SoundWave /Game/SE/SE_controller/drops/sounds/高频的水滴不断嘀落－YS2007058.高频的水滴不断嘀落－YS2007058
+[2025.02.02-11.51.22:955][153]BlueprintLog: New page: 编译monstersound
+[2025.02.02-11.51.23:020][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.02-11.51.26:186][484]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.02.02-11.51.26:189][484]LogContentBundle: [FirstPersonMap(独立)] Generating Streaming for 0 Content Bundles.
+[2025.02.02-11.51.26:189][484]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.02-11.51.26:192][484]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 97 ms)
+[2025.02.02-11.51.26:192][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.02-11.51.26:192][484]PIE: New page: PIE会话：FirstPersonMap（2025年2月3日 上午3:51:26）
+[2025.02.02-11.51.26:223][484]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.02-11.51.26:318][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094779s)
+[2025.02.02-11.51.26:318][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.094826s)
+[2025.02.02-11.51.26:326][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.02-11.51.26:329][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.02-11.51.26:330][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.02-11.51.26:330][484]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.02-11.51.26:330][484]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.02-11.51.26:330][484]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.02-11.51.26:330][484]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.02-11.51.26:330][484]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.02-11.51.26:342][484]LogContentBundle: [FirstPersonMap(独立)] Creating new contrainer.
+[2025.02.02-11.51.26:342][484]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 507 ms)
+[2025.02.02-11.51.26:342][484]LogPlayLevel: PIE: World Init took: (0.013181s)
+[2025.02.02-11.51.26:342][484]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-11.51.26:342][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-11.51.26:342][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-11.51.26:343][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-11.51.26:343][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-11.51.26:343][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-11.51.26:346][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-11.51.26:381][484]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.02.02-11.51.26:381][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-11.51.26:381][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-11.51.26:381][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-11.51.26:383][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.02.02-11.51.26:383][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=38
+[2025.02.02-11.51.26:384][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.02.02-11.51.26:384][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.02.02-11.51.26:384][484]LogInit: FAudioDevice initialized with ID 38.
+[2025.02.02-11.51.26:384][484]LogAudio: Display: Audio Device (ID: 38) registered with world 'FirstPersonMap'.
+[2025.02.02-11.51.26:384][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.02.02-11.51.26:386][484]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-11.51.26:390][484]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.02.02-19.51.26
+[2025.02.02-11.51.26:390][484]LogWorld: Bringing up level for play took: 0.003666
+[2025.02.02-11.51.26:392][484]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.02.02-11.51.26:395][484]PIE: 登陆的服务器
+[2025.02.02-11.51.26:395][484]PIE: PIE总开始时间：0.206秒。
+[2025.02.02-11.51.36:184][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-11.51.36:184][644]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.02-11.51.36:184][644]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-11.51.36:185][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-11.51.36:185][644]LogContentBundle: [FirstPersonMap(独立)] Deleting container.
+[2025.02.02-11.51.36:191][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-11.51.36:194][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-11.51.36:205][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-11.51.36:205][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.02.02-11.51.36:205][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.02.02-11.51.36:207][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.02.02-11.51.36:214][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.02-11.51.36:304][645]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.02.02-11.51.58:956][575]BlueprintLog: New page: 编译monstersound
+[2025.02.02-11.51.58:975][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.02-11.51.59:598][630]BlueprintLog: New page: 编译monstersound
+[2025.02.02-11.51.59:617][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.02-11.52.01:364][811]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.02.02-11.52.01:368][811]LogContentBundle: [FirstPersonMap(独立)] Generating Streaming for 0 Content Bundles.
+[2025.02.02-11.52.01:368][811]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.02-11.52.01:370][811]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 99 ms)
+[2025.02.02-11.52.01:371][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.02-11.52.01:371][811]PIE: New page: PIE会话：FirstPersonMap（2025年2月3日 上午3:52:01）
+[2025.02.02-11.52.01:393][811]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.02-11.52.01:491][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097519s)
+[2025.02.02-11.52.01:491][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.097557s)
+[2025.02.02-11.52.01:498][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.02-11.52.01:500][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.02-11.52.01:500][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.02-11.52.01:500][811]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.02-11.52.01:500][811]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.02-11.52.01:500][811]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.02-11.52.01:500][811]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.02-11.52.01:500][811]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.02-11.52.01:513][811]LogContentBundle: [FirstPersonMap(独立)] Creating new contrainer.
+[2025.02.02-11.52.01:513][811]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 519 ms)
+[2025.02.02-11.52.01:513][811]LogPlayLevel: PIE: World Init took: (0.013092s)
+[2025.02.02-11.52.01:513][811]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-11.52.01:513][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-11.52.01:513][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-11.52.01:513][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-11.52.01:513][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-11.52.01:513][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-11.52.01:515][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-11.52.01:547][811]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.02.02-11.52.01:548][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-11.52.01:548][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-11.52.01:548][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-11.52.01:548][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.02.02-11.52.01:548][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=39
+[2025.02.02-11.52.01:550][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.02.02-11.52.01:550][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.02.02-11.52.01:550][811]LogInit: FAudioDevice initialized with ID 39.
+[2025.02.02-11.52.01:550][811]LogAudio: Display: Audio Device (ID: 39) registered with world 'FirstPersonMap'.
+[2025.02.02-11.52.01:550][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.02.02-11.52.01:552][811]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-11.52.01:555][811]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.02.02-19.52.01
+[2025.02.02-11.52.01:555][811]LogWorld: Bringing up level for play took: 0.003497
+[2025.02.02-11.52.01:558][811]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.02.02-11.52.01:560][811]PIE: 登陆的服务器
+[2025.02.02-11.52.01:561][811]PIE: PIE总开始时间：0.193秒。
+[2025.02.02-11.52.07:734][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-11.52.07:734][382]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.02-11.52.07:734][382]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-11.52.07:734][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-11.52.07:735][382]LogContentBundle: [FirstPersonMap(独立)] Deleting container.
+[2025.02.02-11.52.07:740][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-11.52.07:744][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-11.52.07:753][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-11.52.07:754][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.02.02-11.52.07:754][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.02.02-11.52.07:756][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.02.02-11.52.07:764][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.02-11.52.07:835][383]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.02.02-11.52.12:048][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-11.52.12:089][826]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/monsters/BP/monstersound
+[2025.02.02-11.52.12:090][826]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/monstersound803C66D4491F7CCBDFCE82A19EBFE0E5.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/monsters/BP/monstersound.uasset'
+[2025.02.02-11.52.12:096][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 710 ms)
+[2025.02.02-11.52.12:097][826]AssetCheck: New page: 资产保存：monstersound
+[2025.02.02-11.52.12:097][826]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/SE/SE_controller/monsters/BP/monstersound.monstersound
+[2025.02.02-11.52.13:498][980]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.02.02-11.52.13:502][980]LogContentBundle: [FirstPersonMap(独立)] Generating Streaming for 0 Content Bundles.
+[2025.02.02-11.52.13:503][980]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.02-11.52.13:504][980]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 101 ms)
+[2025.02.02-11.52.13:504][980]BlueprintLog: New page: 运行前自动重新编译
+[2025.02.02-11.52.13:505][980]LogPlayLevel: [PlayLevel] Compiling monstersound before play...
+[2025.02.02-11.52.13:530][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.02-11.52.13:533][980]LogPlayLevel: PlayLevel: Blueprint regeneration took 28 ms (1 blueprints)
+[2025.02.02-11.52.13:533][980]PIE: New page: PIE会话：FirstPersonMap（2025年2月3日 上午3:52:13）
+[2025.02.02-11.52.13:585][980]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.02-11.52.13:677][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092692s)
+[2025.02.02-11.52.13:677][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.092732s)
+[2025.02.02-11.52.13:684][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.02.02-11.52.13:685][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.02-11.52.13:685][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.02-11.52.13:685][980]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.02-11.52.13:686][980]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.02-11.52.13:686][980]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.02-11.52.13:686][980]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.02-11.52.13:686][980]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.02-11.52.13:698][980]LogContentBundle: [FirstPersonMap(独立)] Creating new contrainer.
+[2025.02.02-11.52.13:698][980]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 531 ms)
+[2025.02.02-11.52.13:698][980]LogPlayLevel: PIE: World Init took: (0.013096s)
+[2025.02.02-11.52.13:698][980]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-11.52.13:699][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-11.52.13:699][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-11.52.13:699][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-11.52.13:699][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-11.52.13:699][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-11.52.13:700][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-11.52.13:735][980]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.02.02-11.52.13:735][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-11.52.13:736][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-11.52.13:736][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-11.52.13:736][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.02.02-11.52.13:736][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=40
+[2025.02.02-11.52.13:739][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.02.02-11.52.13:739][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.02.02-11.52.13:739][980]LogInit: FAudioDevice initialized with ID 40.
+[2025.02.02-11.52.13:739][980]LogAudio: Display: Audio Device (ID: 40) registered with world 'FirstPersonMap'.
+[2025.02.02-11.52.13:739][980]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.02.02-11.52.13:742][980]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-11.52.13:745][980]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.02.02-19.52.13
+[2025.02.02-11.52.13:745][980]LogWorld: Bringing up level for play took: 0.003593
+[2025.02.02-11.52.13:747][980]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.02.02-11.52.13:749][980]PIE: 登陆的服务器
+[2025.02.02-11.52.13:750][980]PIE: PIE总开始时间：0.248秒。
+[2025.02.02-11.52.19:244][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-11.52.19:244][604]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.02-11.52.19:244][604]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-11.52.19:245][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-11.52.19:245][604]LogContentBundle: [FirstPersonMap(独立)] Deleting container.
+[2025.02.02-11.52.19:249][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-11.52.19:252][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-11.52.19:261][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-11.52.19:262][604]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.02.02-11.52.19:262][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.02.02-11.52.19:263][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.02.02-11.52.19:270][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.02-11.52.19:344][605]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.02.02-11.52.59:280][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-11.52.59:318][587]LogSavePackage: Moving output files for package: /Game/SE/SE_controller/monsters/BP/monstersound
+[2025.02.02-11.52.59:318][587]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/monstersoundF34E7EE1449F6FE1C6786DB022C4117E.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/SE/SE_controller/monsters/BP/monstersound.uasset'
+[2025.02.02-11.52.59:325][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 755 ms)
+[2025.02.02-11.52.59:326][587]AssetCheck: New page: 资产保存：monstersound
+[2025.02.02-11.52.59:326][587]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/SE/SE_controller/monsters/BP/monstersound.monstersound
+[2025.02.02-11.53.33:584][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.02-11.53.33:590][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JJ/IRW92MCZLY9L29H4THID0I_Auto9
+[2025.02.02-11.53.33:590][677]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/IRW92MCZLY9L29H4THID0I_Auto91150AE7F4BB19771B20354AFC7488EE8.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JJ/IRW92MCZLY9L29H4THID0I_Auto9.uasset'
+[2025.02.02-11.53.33:591][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2025.02.02-11.53.33:591][677]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.02.02-12.01.42:617][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-12.01.42:647][144]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JJ/IRW92MCZLY9L29H4THID0I
+[2025.02.02-12.01.42:648][144]LogSavePackage: Moving '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Saved/IRW92MCZLY9L29H4THID0I9CA1A674412D2C0152DEC89740624FDF.tmp' to '../../../../../Unreal Engine/Step_gamejam/Step_gamejam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JJ/IRW92MCZLY9L29H4THID0I.uasset'
+[2025.02.02-12.01.42:679][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 817 ms)
+[2025.02.02-12.01.42:680][144]AssetCheck: New page: 资产保存：monstersound_C_UAID_047C16BD5047444802_2075941503
+[2025.02.02-12.01.42:680][144]LogContentValidation: Display: 正在验证/Game/SE/SE_controller/monsters/BP/monstersound.monstersound_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.monstersound_C_UAID_047C16BD5047444802_2075941503
