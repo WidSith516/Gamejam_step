@@ -4,7 +4,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 02/07/25 14:58:49
+=======
+﻿Log file open, 02/07/25 11:24:37
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 02/07/25 11:24:37
 >>>>>>> Stashed changes
@@ -36,7 +40,12 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=33252)
+=======
+LogWindows: Started CrashReportClient (pid=9792)
+LogWindows: Enabling Tpause support
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=9792)
 LogWindows: Enabling Tpause support
@@ -77,8 +86,13 @@ LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Rele
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.2894] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz"
+=======
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4751] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13650HX"
+>>>>>>> Stashed changes
 =======
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4751] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13650HX"
@@ -113,6 +127,7 @@ LogCsvProfiler: Display: Metadata set : asan="0"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" E:/Gamejam/Gamejam_step/Step_gamejam/Step_gamejam.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="a6648dff4618f5a137b0f080d0e7a604"
 LogCsvProfiler: Display: Metadata set : llm="0"
@@ -141,6 +156,8 @@ LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -298,6 +315,9 @@ LogPluginManager: Mounting Engine plugin AssetTags
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -312,6 +332,7 @@ LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidPermission
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -391,6 +412,16 @@ LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin AudioCapture
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin AudioCapture
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GooglePAD
@@ -409,6 +440,7 @@ LogPluginManager: Mounting Engine plugin RigVM
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin SoundFields
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -576,6 +608,8 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/M
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin Synthesis
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
@@ -597,10 +631,15 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Pape
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+>>>>>>> Stashed changes
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
@@ -633,9 +672,12 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -657,6 +699,9 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Develop
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -687,8 +732,11 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -716,6 +764,9 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -738,7 +789,10 @@ SourceControl: Revision control is disabled
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogEOSSDK: Initializing EOSSDK Version:1.16.1-27379709
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -788,7 +842,11 @@ LogInit: Net CL: 27405482
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: OS: Windows 11 (24H2) [10.0.26100.2894] (), CPU: Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz, GPU: NVIDIA GeForce RTX 2060
+=======
+LogInit: OS: Windows 11 (23H2) [10.0.22631.4751] (), CPU: 13th Gen Intel(R) Core(TM) i7-13650HX, GPU: Intel(R) UHD Graphics
+>>>>>>> Stashed changes
 =======
 LogInit: OS: Windows 11 (23H2) [10.0.22631.4751] (), CPU: 13th Gen Intel(R) Core(TM) i7-13650HX, GPU: Intel(R) UHD Graphics
 >>>>>>> Stashed changes
@@ -818,9 +876,12 @@ LogInit: Branch Name: ++UE5+Release-5.3
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Command Line: 
 LogInit: Base Directory: E:/epic/UE_5.3/Engine/Binaries/Win64/
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -20043,6 +20104,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
